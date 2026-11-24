@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OOPBasics
+namespace OOP3Vardzar
 {
     internal class Program
     {
@@ -13,7 +13,7 @@ namespace OOPBasics
 
             if (taskNumber == 1)
             {
-                Console.WriteLine("Тут буде завдання 1");
+                Task1.Run();
             }
             else if (taskNumber == 2)
             {
