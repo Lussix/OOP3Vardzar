@@ -25,7 +25,7 @@ namespace OOP3Vardzar
             }
             else if (taskNumber == 4)
             {
-                Console.WriteLine("Тут буде завдання 4");
+                Task4.Run();
             }
             else
             {
